@@ -1,3 +1,9 @@
+# DEPRECATED
+Please check out [external-conversation-agent](https://github.com/nfragment/external-conversation-agent)
+
+
+
+
 # nodered_conversation
 Custom Component for Home Assistant.  
 This creates a NodeRed Conversation Agent (modified from openai conversation agent).  
